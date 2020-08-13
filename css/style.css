@@ -26,13 +26,11 @@ margin-top: 10px;
 }
 
 #nav-list a {
+background-color: #6b8e23;
+padding: 0;
 font-size: 18px;
 color: #000000;
 text-align: center;
-}
-
-.navbar-default .navbar-nav {
-background-color: #808000;
 }
 
 .navbar-header button.navbar-toggle, navbar-header .icon-bar {
@@ -52,15 +50,37 @@ font-weight: bold;
 }
 
 menu-description {
+margin-top: 0;
 margin-right: 15px;
 margin-left: 15px;
 }
 
 #chicken-description {
+padding-left: 35px;
+padding-right: 35px;
 font-size: 18px;
 font-family: "Trebuchet MS", Helvetica, sans-serif;
 background-color: #ffdead;
-padding: 30px 15px 30px 15px;
+border: 0;
+text-align: justify;
+}
+
+#beef-description {
+padding-left: 35px;
+padding-right: 35px;
+font-size: 18px;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+background-color: #ffdead;
+border: 0;
+text-align: justify;
+}
+
+#sushi-description {
+padding-left: 35px;
+padding-right: 35px;
+font-size: 18px;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+background-color: #ffdead;
 border: 0;
 text-align: justify;
 }
