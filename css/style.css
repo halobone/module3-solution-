@@ -1,0 +1,66 @@
+* {
+box-sizing: border-box;
+}
+
+
+/** HEADER */
+#header-nav {
+background-color: #6b8e23;
+border-radius: 0;
+border: 0;
+}
+
+.navbar-brand {
+padding-top: 25px;
+}
+
+.navbar-brand h1 {
+color: #fff;
+margin-top: 0;
+margin-bottom: 0;
+line-height: .75;
+}
+
+#nav-list {
+margin-top: 10px;
+}
+
+#nav-list a {
+font-size: 18px;
+color: #000000;
+text-align: center;
+}
+
+.navbar-default .navbar-nav {
+background-color: #808000;
+}
+
+.navbar-header button.navbar-toggle, navbar-header .icon-bar {
+border: 2px solid #fff;
+}
+
+.navbar-header button.navbar-toggle {
+clear: both;
+margin-top: -30px;
+}
+
+/* END HEADER */
+
+/*MAIN PAGE*/
+#menu {
+font-weight: bold;
+}
+
+menu-description {
+margin-right: 15px;
+margin-left: 15px;
+}
+
+#chicken-description {
+font-size: 18px;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+background-color: #ffdead;
+padding: 30px 15px 30px 15px;
+border: 0;
+text-align: justify;
+}
